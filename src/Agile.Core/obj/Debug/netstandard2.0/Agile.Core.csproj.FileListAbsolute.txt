@@ -1,0 +1,8 @@
+E:\1125\Agile.Core\src\Agile.Core\bin\Debug\netstandard2.0\Agile.Core.deps.json
+E:\1125\Agile.Core\src\Agile.Core\bin\Debug\netstandard2.0\Agile.Core.dll
+E:\1125\Agile.Core\src\Agile.Core\bin\Debug\netstandard2.0\Agile.Core.pdb
+E:\1125\Agile.Core\src\Agile.Core\obj\Debug\netstandard2.0\Agile.Core.csproj.CoreCompileInputs.cache
+E:\1125\Agile.Core\src\Agile.Core\obj\Debug\netstandard2.0\Agile.Core.AssemblyInfoInputs.cache
+E:\1125\Agile.Core\src\Agile.Core\obj\Debug\netstandard2.0\Agile.Core.AssemblyInfo.cs
+E:\1125\Agile.Core\src\Agile.Core\obj\Debug\netstandard2.0\Agile.Core.dll
+E:\1125\Agile.Core\src\Agile.Core\obj\Debug\netstandard2.0\Agile.Core.pdb

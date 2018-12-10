@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Agile.Core</id>
+    <version>2.0.0</version>
+    <authors>fengyanfei</authors>
+    <owners>fengyanfei</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Agile.Core util</description>
+    <releaseNotes>Agile.Core util</releaseNotes>
+    <tags>Agile.Core util</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="BouncyCastle.NetCore" version="1.8.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Caching.Memory" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.1" exclude="Build,Analyzers" />
+        <dependency id="StackExchange.Redis" version="2.0.519" exclude="Build,Analyzers" />
+        <dependency id="log4net" version="2.0.8" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\1125\Agile.Core\src\Agile.Core\bin\Debug\netstandard2.0\Agile.Core.dll" target="lib\netstandard2.0\Agile.Core.dll" />
+  </files>
+</package>

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EA3C53D1-29AA-411D-B92C-55B500C43C10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{99D8F556-4BB9-438D-9790-07036AADCC31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Agile.Core", "src\Agile.Core\Agile.Core.csproj", "{57EDBF3D-4403-4FA9-9133-2D792B34AF0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTest", "test\XUnitTest\XUnitTest.csproj", "{2E436C86-4648-4ED9-8E9D-F9D9A1418B5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57EDBF3D-4403-4FA9-9133-2D792B34AF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EDBF3D-4403-4FA9-9133-2D792B34AF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EDBF3D-4403-4FA9-9133-2D792B34AF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EDBF3D-4403-4FA9-9133-2D792B34AF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E436C86-4648-4ED9-8E9D-F9D9A1418B5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E436C86-4648-4ED9-8E9D-F9D9A1418B5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E436C86-4648-4ED9-8E9D-F9D9A1418B5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E436C86-4648-4ED9-8E9D-F9D9A1418B5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{57EDBF3D-4403-4FA9-9133-2D792B34AF0B} = {EA3C53D1-29AA-411D-B92C-55B500C43C10}
+		{2E436C86-4648-4ED9-8E9D-F9D9A1418B5C} = {99D8F556-4BB9-438D-9790-07036AADCC31}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B710D19-541C-405B-9C53-83B2C2C365D2}
+	EndGlobalSection
+EndGlobal
